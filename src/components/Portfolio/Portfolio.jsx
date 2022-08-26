@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/vote.jpg'
 import IMG2 from '../../assets/stacking.jpg'
 import IMG3 from '../../assets/nft.png'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG4 from '../../assets/rz.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -14,44 +14,31 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Decentralized Voting DApp',
-    github: 'https://github.com',
+    github: 'https://github.com/SamCrdn/Voting_DApp',
     demo: 'https://www.loom.com/share/1666191a7db24251928d0a2148f5f00c'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Stacking DApp',
-    github: 'https://github.com',
+    github: 'https://github.com/SamCrdn/Staking-DApp',
     demo: 'https://www.loom.com/share/6cd52b6ef80042f798b723c6f2340467'
   },
   {
     id: 3,
     image: IMG3,
     title: 'NFT MarketPlace',
-    github: 'https://github.com',
+    github: 'https://github.com/SamCrdn/Project4_Alyra',
     demo: 'https://www.loom.com/share/863630cbb7f04915b46ac24133851b82'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
+    title: 'RapMinerz App',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    demo: 'https://www.loom.com/share/9e57f63b7e624438874f69701587bc76'
   },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16541289-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/15887665-Orion-UI-kit-Charts-templates-infographics-in-Figma'
-  }
+ 
 ]
 
 
