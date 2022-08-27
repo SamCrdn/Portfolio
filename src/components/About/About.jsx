@@ -34,7 +34,7 @@ const About = () => {
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Motivation<br></br>&  Desire to learn</h5>
+              <h5>Motivation &  Desire to learn</h5>
               <small>200%</small>
             </article>
           </div>
@@ -46,9 +46,10 @@ const About = () => {
           <br />
           Passionate about the blockchain universe and its ecosystem, I started my professional retraining 8 months ago.
           </p>
-
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
-          <a href="cv.pdf" download='Samuel Cardon CV' className='btn btn-primary2'>Download CV</a>
+          <div className='ctasmall'>
+            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+            <a href="cv.pdf" download='Samuel Cardon CV' className='btn btn-primary2'>Download CV</a>
+          </div>
         </div>
       </div>
     </section>

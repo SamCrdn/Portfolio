@@ -95,16 +95,26 @@
     }
   
     .about__cards {
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: 1fr;
       gap: 1rem;
+      margin-left: 5%;
+      margin-right: 5%;
     }
   
     .about__content {
-      text-align: center;
+      text-align: left;
+    
     }
   
     .about__content p {
-      margin: 1.5rem 0;
+      margin: 3.5rem 0;
+    }
+
+    .ctasmall {
+      margin-top: 2.5rem;
+      display: flex;
+      gap: 1.2rem;
+      justify-content: center;
     }
   }
   
