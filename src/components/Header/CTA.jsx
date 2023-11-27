@@ -3,7 +3,7 @@ import React from "react";
 const CTA = () => {
   return (
     <div className="cta">
-      <a href="cv.pdf" download="Samuel Cardon CV" className="btn">
+      <a href="cv.pdf" download=" CV - Samuel Cardon" className="btn">
         Download CV
       </a>
       <a href="#contact" className="btn btn-primary">
